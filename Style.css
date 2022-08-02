@@ -1,0 +1,13 @@
+.image
+{
+    height: 100%;
+    width: 100px;
+    border-radius: 30px;
+
+}
+p
+{
+    margin-top: 100px;
+    font-family: Arial, Courier, monospace;
+    text-align: justify;
+}
